@@ -1,0 +1,44 @@
+/* COMMON STYLE*/
+html,body{margin:0;padding:0}
+header,section,nav,article,aside,footer{display: block;overflow: hidden;}
+ul{margin:0;padding:0}
+#Full{
+    width:1080px;
+    height: auto;
+    background-color:rgb(172, 172, 249);
+    margin: 0 auto;
+    padding:20px 20px 20px 20px;
+    
+
+}
+#First{
+    width:1080px;
+    background-image: url("IMG/AI-Technology-Trends.jpg");
+    height:100vh;
+    color:darkblue;
+    background-repeat: no-repeat;
+    
+    
+    background-size: contain;
+    background-blend-mode: multiplay;
+
+    
+}
+#h1{
+width:100px;
+height:30px;
+background-color: antiquewhite;
+    
+
+}
+nav ul li {
+    display: inline;
+    border:2px;
+    background-color: aliceblue;
+    padding:5px;
+}
+#second{
+    width: 1080px;
+    height: 600px;
+    background-color:rgb(10, 10, 73);
+}
