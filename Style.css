@@ -6,8 +6,7 @@ ul{margin:0;padding:0}
     width:1080px;
     height: auto;
     background-color:rgb(172, 172, 249);
-    margin: 0 auto;
-    padding:20px 20px 20px 20px;
+    margin:20px 20px 20px 20px;
     
 
 }
@@ -17,8 +16,6 @@ ul{margin:0;padding:0}
     height:100vh;
     color:darkblue;
     background-repeat: no-repeat;
-    
-    
     background-size: contain;
     background-blend-mode: multiplay;
 
