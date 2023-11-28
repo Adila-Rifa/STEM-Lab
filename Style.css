@@ -207,7 +207,13 @@ nav .fa{
 
 
 
+#content{
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    
 
+}
 
 
 
@@ -219,10 +225,20 @@ nav .fa{
     text-align: center;
     margin: 40px 120px;
     background-color:aqua;
-    padding: 50px;
+    padding: 20px;
 }
 .about-me{
     display:flex;
-    justify-content: space-around;
+    justify-content: space-between;
 
+}
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #00365b;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 }
